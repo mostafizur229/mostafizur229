@@ -19,10 +19,13 @@ Experienced Software Engineer specializing in building scalable enterprise syste
 ### 📊 GitHub Stats
 
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=mostafizur229&show_icons=true&theme=radical&hide_border=true" alt="Mostafizur's GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mostafizur229&layout=compact&theme=radical&hide_border=true" alt="Top Languages" />
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=mostafizur229&show_icons=true&theme=radical&hide_border=true" alt="Mostafizur's GitHub Stats" />
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=mostafizur229&layout=compact&theme=radical&hide_border=true" alt="Top Languages" />
 </p>
 
+<p align="left">
+  <img src="https://streak-stats.demolab.com?user=mostafizur229&theme=radical&hide_border=true" alt="GitHub Streak" />
+</p>
 ---
 
 ### 💼 What I Bring to the Table
